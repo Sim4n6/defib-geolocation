@@ -9,7 +9,8 @@ Geo localisation des défibrillateurs à Toulouse à base des données opendata.
  
 ## Demonstration :
 
-Le notebook demonstration est visible sur le lien : https://nbviewer.jupyter.org/github/Sim4n6/defib-geolocation/blob/master/defib-map.ipynb
+Le notebook demonstration est visible sur le lien.
+Démo : https://nbviewer.jupyter.org/github/Sim4n6/defib-geolocation/blob/master/defib-map.ipynb
 
 
 
