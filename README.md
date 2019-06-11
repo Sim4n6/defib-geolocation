@@ -15,7 +15,7 @@ Démo : https://nbviewer.jupyter.org/github/Sim4n6/defib-geolocation/blob/master
 
 ### TODO :
 
- - [] fix accent view in french
- - [] provide more details in popup
+ - [ ] fix accent view in french
+ - [ ] provide more details in popup
 
 
