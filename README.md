@@ -13,5 +13,9 @@ Le notebook demonstration est visible sur le lien.
 Démo : https://nbviewer.jupyter.org/github/Sim4n6/defib-geolocation/blob/master/defib-map.ipynb
 
 
+### TODO :
+
+[ ] fix accent view in french
+[ ] provide more details in popup
 
 
